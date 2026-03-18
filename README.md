@@ -1,5 +1,5 @@
  Welcome to my GitHub! 🗡️
-<img align="right" width="150" src=".![indie fantasy GIF by undungeon](https://github.com/user-attachments/assets/78a24835-9346-4fe6-99eb-6cb8a68f40d2)
+<img align="right" width="150" src=".indie fantasy GIF by undungeon.gif
 ">
 I'm a first-year CS student at UCF diving deep into game development.
 Currently building my skills from the ground up — one project at a time.
