@@ -1,18 +1,11 @@
  Welcome to my GitHub! 🗡️
-<p align="center">
-  <img width="300" src="./indie fantasy GIF by undungeon.gif">
-</p>
-
+| | |
+|---|---|
+| **🎮 About Me** <br><br> 🎓 Freshman @ University of Central Florida — Computer Science <br> 🎮 Aspiring Game Developer <br> 💻 Languages: C · Java · Python <br> 🔧 Exploring: Raylib for 2D game development <br> 🌱 Currently learning: data structures, OOP, and game loops | <img width="300" src="./indie fantasy GIF by undungeon.gif"> |
 I'm a first-year CS student at UCF diving deep into game development.
 Currently building my skills from the ground up — one project at a time.
 
-## 🎮 About Me
 
-- 🎓 Freshman @ University of Central Florida — Computer Science    
-- 🕹️ Aspiring Game Developer
-- 💻 Languages: C · Java · Python
-- 🔧 Exploring: Raylib for 2D game development
-- 🌱 Currently learning: data structures, OOP, and game loops
 
 ## 🛠️ Projects
 
