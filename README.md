@@ -5,7 +5,7 @@
 
 **🎮 About Me**
 
-- 🎓 Freshman @ University of Central Florida — Computer Science
+- 🎓 Junior @ University of Central Florida — Computer Science
 - 🎮 Aspiring Game Developer
 - 💻 Languages: C · Java · Python
 - 🔧 Exploring: Raylib for 2D game development
